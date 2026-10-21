@@ -1,0 +1,20 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "description": "Learn to code for free with thousands of interactive lessons.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starredAt": "2025-01-15"
+  },
+  {
+    "name": "The Algorithms",
+    "description": "Open-source implementations of algorithms in many programming languages.",
+    "url": "https://github.com/TheAlgorithms",
+    "starredAt": "2025-02-08"
+  },
+  {
+    "name": "Bootstrap",
+    "description": "Build responsive, mobile-first projects on the web.",
+    "url": "https://github.com/twbs/bootstrap",
+    "starredAt": "2025-03-22"
+  }
+]
